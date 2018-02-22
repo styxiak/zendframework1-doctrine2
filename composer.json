@@ -1,7 +1,7 @@
 {
     "name": "guilhermeblanco/zendframework1-doctrine2",
     "require": {
-        "doctrine/orm": "~2.3"
+        "doctrine/orm": "~2.5"
     },
     "autoload": {
         "psr-0": {"Bisna": "library/"}
